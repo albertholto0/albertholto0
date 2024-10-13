@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hola! Soy Albert
+## Estudiante de Informática
+![albert_github_portada](https://github.com/user-attachments/assets/f33b6c8f-b0b8-4b77-803f-dc22e06f9120)
 
 <!--
 **albertholto0/albertholto0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
