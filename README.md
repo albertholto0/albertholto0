@@ -1,6 +1,13 @@
-# Hola! Soy Albert
-## Estudiante de Informática
+# Hola! Aquí Albert 🐱
 ![albert_github_portada](https://github.com/user-attachments/assets/f33b6c8f-b0b8-4b77-803f-dc22e06f9120)
+
+**_Estudiante de la Licenciatura en Informática de la Universidad de la Sierra Juárez._**
+
+Desde el 2019 he dedicado parte de mis ratos libres a la programación; he explorado varios lenguajes de programación pero actualmente solo domino el lenguaje C++. Me encanta jugar videojuegos; mis generos favoritos son de _Plataformas_, _Rouguelikes_, _de Rol_ y _Mundo abierto_. Pókemon es de mis juegos favoritos y casi siempre termino jugando con un Gengar en mi equipo.Tambien disfruto mucho de la fotográfia; aunque no cuento con una cámara fotográfica, capturar la "belleza de las cosas" es uno de mis pasatiempos favoritos.
+
+### Tecnologías con las que he trabajado
+
+
 
 <!--
 **albertholto0/albertholto0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
