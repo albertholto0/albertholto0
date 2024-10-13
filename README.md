@@ -27,7 +27,9 @@ Desde el 2019 he dedicado parte de mis ratos libres a la programación; he explo
 ![Apache Cordova](https://img.shields.io/badge/Apache%20Cordova%20-%23E8E8E8.svg?style=for-the-badge&logo=apache-cordova&logoColor=black)
 ![Sublime Text](https://img.shields.io/badge/Sublime%20Text%20-%234B3C4D.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
 
-![R (2)](https://github.com/user-attachments/assets/a81c40da-0210-47a1-9bec-dca265f9df20)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/adb154bd-7de3-4e12-82f9-33b4e97a80ce" alt="mimilyu_gif" />
+</p>
 
 #### Contacto
 [![Email](https://img.shields.io/badge/albertmendoza019@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:albertmendoza019@gmail.com)
