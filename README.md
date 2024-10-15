@@ -3,7 +3,7 @@
 
 ![albert_github_portada](https://github.com/user-attachments/assets/f33b6c8f-b0b8-4b77-803f-dc22e06f9120)
 
-Desde el 2019 he dedicado parte de mis ratos libres a la programación; he explorado varios lenguajes de programación pero actualmente solo domino el lenguaje C++. Me encanta jugar videojuegos; mis generos favoritos son de _Plataformas_, _Rouguelikes_, _de Rol_ y _Mundo abierto_. Pókemon es de mis juegos favoritos y casi siempre termino jugando con un Gengar en mi equipo.Tambien disfruto mucho de la fotográfia; aunque no cuento con una cámara fotográfica, y disfruto de esta actividad con la cámara de mi celular. 
+Desde el 2019 he dedicado parte de mis ratos libres a la programación; he explorado varios lenguajes de programación pero actualmente solo domino el lenguaje C++. Me encanta jugar videojuegos; mis géneros favoritos son de _Plataformas_, _Rouguelikes_, _de Rol_ y _Mundo abierto_. Pokémon es de mis juegos favoritos y casi siempre termino jugando con un Gengar en mi equipo. También disfruto mucho de la fotografía; aunque no cuento con una cámara fotográfica, y disfruto de esta actividad con la cámara de mi celular. 
 
 En el futuro, aspiro a trabajar en el ámbito del desarrollo de software, así como en el desarrollo y soporte de sitios web. Estoy entusiasmado por participar en proyectos que me permitan crecer como programador y aprender de desarrolladores más experimentados que yo.
 
